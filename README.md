@@ -17,7 +17,7 @@ A modern and responsive e-commerce website built using **HTML, CSS, and JavaScri
 
 ---
 ## Live Demo
-🔗 [Click here to view the live project][(https://naitik2701.github.io/E-commerce_website/)]
+🔗 [Click here to view the live project](https://naitik2701.github.io/E-commerce_website/)
 
 
 
