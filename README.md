@@ -32,14 +32,14 @@ A modern and responsive e-commerce website built using **HTML, CSS, and JavaScri
 
 ## 🚀 Pages & Structure
 
-index.html
-login.html
-signup.html
-products.html
-checkout.html
-style.css
-main.js
-images
+index.html,
+login.html,
+signup.html,
+products.html,
+checkout.html,
+style.css,
+main.js,
+images,
 
 
 ---
@@ -53,7 +53,7 @@ You can use the signup page to create a demo account and then use it to login.
 ## 🧑‍💻 How to Run
 
 1. Clone the repository  
-   `git clone https://github.com/yourusername/shopzone.git`
+   `git clone https://github.com/Naitik2701/E-commerce_website
 
 2. Open `index.html` in your browser
 
