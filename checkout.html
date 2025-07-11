@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Checkout | MyShop</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">🛍️ MyShop</div>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="products.html">Shop</a>
+      <a href="checkout.html">Checkout</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2 class="section-title">🛒 Your Cart</h2>
+    <div class="cart-container" id="cartItems"></div>
+    <div class="checkout-summary">
+      <p><strong>Total:</strong> ₹<span id="cartTotal">0</span></p>
+      <button onclick="checkout()">Place Order</button>
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 MyShop. All rights reserved.</p>
+  </footer>
+  <script src="js/main.js"></script>
+</body>
+</html>
